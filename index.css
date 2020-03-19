@@ -38,6 +38,9 @@ li {
 .row {
     margin-top: 2em;
 }
+video{ 
+    margin: 0 auto;
+}
 
 .outro {
     margin-top: 2em;
