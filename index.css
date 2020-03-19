@@ -12,6 +12,9 @@ body {
     font-size: 4em;
     font-family: 'Rock Salt', cursive;
 }
+a {
+    font-weight: 550;
+}
 ul {
     list-style-type: none;
     margin-left: 0;
